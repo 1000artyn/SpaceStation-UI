@@ -273,6 +273,7 @@
         border: 0;
         transition: .3s;
         border: 1px solid #f79225;
+        color: #000;
     }
     button:hover {
         opacity: .8;
