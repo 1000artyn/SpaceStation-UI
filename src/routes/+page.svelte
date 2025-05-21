@@ -5,7 +5,7 @@
     import TypeTitle from '/src/TypeTitle.svelte';
     import { fade } from 'svelte/transition';
     import {chartRender} from '/src/lib/Actions/chartRender'
-    import {BarData} from '/src/lib/Data/chartData.js';
+    import {BarData} from '/src/lib/data/chartData.js';
 
     import noStation from '/src/lib/images/noStation.webp';
     import Alpha_Centauri from '/src/lib/images/Alpha Centauri.webp';
